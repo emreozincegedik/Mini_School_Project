@@ -14,7 +14,7 @@ namespace İleri_Programlama
         public static string srConnectionString = "server=localhost\\SQLEXPRESS;database=school_management;Integrated Security=SSPI;"; 
         //delete \\SQLEXPRESS if error is happening        
         
-        //"Data Source=localhost;" +"Initial Catalog=school_management;" +"Integrated Security=SSPI;"
+        //"Data Source=localhost;" +"Initial Catalog=school_management;" +"Integrated Security=SSPI;";
 
         
        
